@@ -25,9 +25,10 @@ The fun part is that you get to write one too! Just make a new branch on this re
 
 If you're reading this and want to participate but don't understand how git works, hit me up and we can get you going!
 
+>> "What I really want, Doctor," Grand tells Dr. Rieux, "is this. On the day when the manuscript reaches the publisher, I want him to stand up - after he's read it through, of course - and say to his staff: 'Gentlemen, hats off!'" Rieux was dumbfounded, and, to add to his amazement, he saw, or seemed to see, the man beside him making as if to take off his hat with a sweeping gesture, bringing his hand to his head, then holding his arm straight out in front of him. "So you see," Grand added, "it's got to be flawless." Though he knew little of the literary world, Rieux had a suspicion that things didn't happen in it quite so picturesquely - that, for instance, publishers do not keep their hats on in their offices. But, of course, one can never tell, and Rieux preferred to hold his peace. "I'd like you to understand, Doctor. I grant you it's easy enough to choose between a 'but' and an 'and.'  It's a bit more difficult to decide between 'and' and 'then.'  But definitely the hardest thing may be to know whether one should put an 'and' or leave it out."
+
 Hats off,
+
 Luke
 
 
-
-> "What I really want, Doctor," Grand tells Dr. Rieux, "is this. On the day when the manuscript reaches the publisher, I want him to stand up - after he's read it through, of course - and say to his staff: 'Gentlemen, hats off!'" Rieux was dumbfounded, and, to add to his amazement, he saw, or seemed to see, the man beside him making as if to take off his hat with a sweeping gesture, bringing his hand to his head, then holding his arm straight out in front of him. "So you see," Grand added, "it's got to be flawless." Though he knew little of the literary world, Rieux had a suspicion that things didn't happen in it quite so picturesquely - that, for instance, publishers do not keep their hats on in their offices. But, of course, one can never tell, and Rieux preferred to hold his peace. "I'd like you to understand, Doctor. I grant you it's easy enough to choose between a 'but' and an 'and.'  It's a bit more difficult to decide between 'and' and 'then.'  But definitely the hardest thing may be to know whether one should put an 'and' or leave it out."
