@@ -8,7 +8,7 @@ The story of *The Plague* (Camus, 1947) includes the inspiring character, Joseph
 
 So for many years, Grand struggles to find his words both in speaking and writing. He takes to studying latin, and eventually the reader learns that he is writing a book. One night the main character, Dr. Rieux, visits Grand's house and finds his desk strewn with sheets of paper, each a heavily edited palimpsest, a small piece of the incipient novel. Upon Rieux's request, Grand agrees to read it to him.
 
-> "One fine morning in the month of May an elegant young horsewoman might have been seen riding a handsomesorrel mare along the flowery avenues of the Bois de Boulogne."
+> "One fine morning in the month of May an elegant young horsewoman might have been seen riding a handsome sorrel mare along the flowery avenues of the Bois de Boulogne."
 
 The doctor, interest piqued, admits that his curiosity has been whetted and asks to hear more. It is at this moment we learn the truth. That all of these papers, all of this writing, amounts to that single sentence. I'll allow Camus to paint the picture:
 
