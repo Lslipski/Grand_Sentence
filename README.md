@@ -21,7 +21,7 @@ The doctor, interest piqued, admits that his curiosity has been whetted and asks
 
 I find Grand's situation, unsurprisingly, to be scrumptiously absurd and, now more than ever, a situation worth emulating. What you'll find in this repository is a single text document containing my attempt at writing the perfect sentence. Here in git we have the luxury of not needing to cover our desks with papers etched in microscopic hand and a million crisscrossed corrections. We can follow the amendments while we have this time. Time yet for a hundred indecisions, and for a hundred visions and revisions, until, when we have found perfection, we can finally say "hats off!"
 
-The fun part is that you get to write one too! Just make a new branch on this repo and start your campaign to find exactly the right words. Then we'll be able to peruse the development of everyone's Grand sentence. 
+The fun part is that you get to write one too! Just clone this repo, add a .txt or .md file with a draft of your perfect sentence, submit a pull request, and start your campaign to find exactly the right words. Then we'll be able to peruse the development of everyone's Grand sentence. 
 
 If you're reading this and want to participate but don't understand how git works, hit me up and we can get you going!
 
